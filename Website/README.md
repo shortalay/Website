@@ -4,11 +4,11 @@ My name is Angel Moses Ochoa,
 this is my README for my repo Website!
 
 The goal of this repo/project is to create the files that will be the building blocks of my website,
-as well as establishing an easy place to host the file for them to be reviewed,
+as well as establishing an easy place to host the files for them to be reviewed,
 and possibly edited!
 
 The repo is available publicly,
-honestly because I'm to #$&*$%^ broke to afford to make it public,
+honestly because I'm to -BLANK- broke to afford to make it public,
 college student life problems,
 and also because it makes sharing the files easier anyway.
 
