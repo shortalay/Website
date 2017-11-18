@@ -1,0 +1,125 @@
+/* main css file for portfolio website */
+
+html, body, h1, h2, h3, h4, p, div {
+	padding: 0;
+	border: 0;
+	margin: 0;
+	font: inherit;
+	font-family: Garamond, Ubuntu, Helvetica;
+	font-size: 100%;
+}
+body {
+	background: url(images/backgrounds/texturetastic-gray.png) center repeat;
+}
+h1 {
+	font-family: Garamond, serif;
+	font-size: 60px;
+	font-weight: bold;
+	text-align: center;
+}
+h2 {
+	font-family: Helvetica, sans-serif;
+	font-size: 24px;
+	font-weight: bold;
+	font-style: italic;
+	text-align: center;
+}
+h3 {
+	font-size: 20px;
+	border-bottom: 1px solid #191919;
+	width: 350px;
+	text-align: left;
+}
+h4 {
+	font-size: 18px;
+}
+p {
+	text-indent: 5px;
+}
+ul {
+	list-style-type: none;
+	display: inline;
+}
+li {
+	padding: 7px;
+}
+a {
+	text-decoration: none;
+	color: #000000;
+	font-weight: normal;
+}
+a:hover {
+	text-decoration: underline;
+	color: #aa0000;
+}
+a visited {
+	font-style: italic;
+}
+p, ul, a {
+	font-family: "Times New Roman", Times, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: normal;
+	text-align: left;
+}
+.header {
+	background: url(images/backgrounds/gray-sand.png) center repeat;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	color: #191919;
+}
+.tagline {
+	background: url(images/backgrounds/zwartevilt.png) center repeat;
+	padding: 11px 7px 11px 7px;
+	margin: 0 auto 45px auto;
+	color: #FFFAFA;
+}
+.introduction {
+	padding: 0 10px 10px 10px;
+	border-bottom: 3px solid #444444;
+	margin: 0;
+	font-weight: 400;
+	text-indent: 0;
+}
+.introduction p {
+	text-align: center;
+	font-size: 20px;
+}
+.article {
+	padding: 11px 7px 11px 7px;
+	border: 1px solid #191919;
+	margin: 20px 20px 20px 20px;
+	background: url(images/backgrounds/extra-clean-paper.png) center repeat;
+}
+.projects, .badges, .articles, .skills {
+	padding: 11px 7px 11px 7px;
+	border: 0;
+	margin: 10px 10px;
+	background: url(images/backgrounds/dust-scratches.png) center repeat;
+}
+.codeschool-badges img {
+	float: left;
+	padding-right: 15px;
+}
+.codeschool-badges p {
+	height: 55px;
+}
+.footer {
+	padding: 11px 7px 11px 7px;
+	border: 1px solid #323232;
+	margin: 15px auto auto auto;
+	background: url(images/backgrounds/spiration-dark.png) center repeat;
+	color: #FFFAFA;
+}
+.footer h3 {
+	padding: 7px 7px 10px 7px;
+	border-bottom-color: #FFFAFA;
+	margin: 0 auto 10px auto;
+	text-align: center;
+	width: 700px;
+}
+.footer p {
+	margin: 5px auto 0 auto;
+}
+.footer a, a:hover {
+	color: #FFFAFA;
+}
