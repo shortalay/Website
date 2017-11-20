@@ -110,12 +110,12 @@ p, ul, a {
 	background: url(images/backgrounds/spiration-dark.png) center repeat;
     text-align: center;
 	color: #FFFAFA;
+    width: auto;
 }
 .footer h3 {
 	padding: 7px 7px 10px 7px;
 	border-bottom-color: #FFFAFA;
 	margin: 0 auto 10px auto;
-	width: 700px;
 }
 .footer p {
 	margin: 5px auto 0 auto;
