@@ -52,8 +52,8 @@ a:hover {
 	text-decoration: underline;
 	color: #aa0000;
 }
-a visited {
-	font-style: italic;
+a:visited {
+	color: #51a98f;
 }
 p, ul, a {
 	font-family: "Times New Roman", Times, Helvetica, sans-serif;
